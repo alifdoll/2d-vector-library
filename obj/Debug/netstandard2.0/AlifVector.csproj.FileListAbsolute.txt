@@ -1,0 +1,10 @@
+G:\Kuliah\Project VStudio Kampus\PBO_Sms_2\AlifVector\bin\Debug\netstandard2.0\AlifVector.deps.json
+G:\Kuliah\Project VStudio Kampus\PBO_Sms_2\AlifVector\bin\Debug\netstandard2.0\AlifVector.dll
+G:\Kuliah\Project VStudio Kampus\PBO_Sms_2\AlifVector\bin\Debug\netstandard2.0\AlifVector.pdb
+G:\Kuliah\Project VStudio Kampus\PBO_Sms_2\AlifVector\bin\Debug\netstandard2.0\AlifVector.xml
+G:\Kuliah\Project VStudio Kampus\PBO_Sms_2\AlifVector\obj\Debug\netstandard2.0\AlifVector.csprojAssemblyReference.cache
+G:\Kuliah\Project VStudio Kampus\PBO_Sms_2\AlifVector\obj\Debug\netstandard2.0\AlifVector.csproj.CoreCompileInputs.cache
+G:\Kuliah\Project VStudio Kampus\PBO_Sms_2\AlifVector\obj\Debug\netstandard2.0\AlifVector.AssemblyInfoInputs.cache
+G:\Kuliah\Project VStudio Kampus\PBO_Sms_2\AlifVector\obj\Debug\netstandard2.0\AlifVector.AssemblyInfo.cs
+G:\Kuliah\Project VStudio Kampus\PBO_Sms_2\AlifVector\obj\Debug\netstandard2.0\AlifVector.dll
+G:\Kuliah\Project VStudio Kampus\PBO_Sms_2\AlifVector\obj\Debug\netstandard2.0\AlifVector.pdb

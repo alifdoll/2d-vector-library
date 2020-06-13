@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AlifVector</name>
+    </assembly>
+    <members>
+        <member name="T:AlifVector.Alif2DVector">
+            <summary>
+            This class is used to create a 2d vector object
+            </summary>
+        </member>
+        <member name="M:AlifVector.Alif2DVector.#ctor(System.Int32,System.Int32)">
+            <summary>
+            Constructor object with predefined properties
+            </summary>
+            <param name="x"></param>
+            <param name="y"></param>
+        </member>
+        <member name="M:AlifVector.Alif2DVector.#ctor">
+            <summary>
+            Constructor without any predefined properties
+            </summary>
+        </member>
+        <member name="M:AlifVector.Alif2DVector.Add(AlifVector.Alif2DVector)">
+            <summary>
+            This method used to add current object
+            with another vector object
+            </summary>
+            <param name="vector"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AlifVector.Alif2DVector.Substract(AlifVector.Alif2DVector)">
+            <summary>
+            This Method used to substract current object
+            with another vector object
+            </summary>
+            <param name="vector"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AlifVector.Alif2DVector.ScalarMultiply(System.Int32)">
+            <summary>
+            This Method change the objects X and Y property
+            by multiplying it with a real number
+            </summary>
+            <param name="constant"></param>
+        </member>
+        <member name="M:AlifVector.Alif2DVector.ScalarDivision(System.Int32)">
+            <summary>
+            This Method change the objects X and Y property
+            by dividing it with a real number
+            </summary>
+            <param name="constant"></param>
+        </member>
+        <member name="M:AlifVector.Alif2DVector.Norm">
+            <summary>
+            This method is used to find the objects
+            Norm
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

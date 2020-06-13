@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "X2w66sxdpz8lUH9uKLbdZiAYLcJ+Im6UmjOZ9/NWnVBMTPGl0d2Q/aBfn04/P9DwhZ8BF7ut8fc8Abp+B80MZw==",
+  "success": true,
+  "projectFilePath": "G:\\Kuliah\\Project VStudio Kampus\\PBO_Sms_2\\AlifVector\\AlifVector.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alif\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\alif\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
